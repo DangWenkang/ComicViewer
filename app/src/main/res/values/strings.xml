@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Comic Viewer</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Comic Issue Number: %1$d</string>
+    <string name="action_info">Info</string>
+    <string name="dialog_info_text_format">%s</string>
+    <string name="dialog_info_title_format">Mouseover text for %1$d</string>
+    <string name="url_string">http://xkcd.com/%d/info.0.json</string>
+</resources>
